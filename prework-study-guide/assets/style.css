@@ -13,7 +13,8 @@ footer {
 
 h1,
 h2{
-  text-altign:center;
+
+  text-align:center;
 }
 
 img{
@@ -32,6 +33,7 @@ ul {
 p {
   text-align: center;
   font-size: 30px;
+
 }
 .card {
   width: 40px auto;
